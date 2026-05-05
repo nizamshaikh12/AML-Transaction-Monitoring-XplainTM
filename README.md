@@ -1,6 +1,6 @@
 # AML Transaction Monitoring — XplainTM
 
-**MSc Financial Technology — Practicum / Applied Project**  
+**MSc Financial Technology — Practicum(Thesis) Project**  
 *National College of Ireland, Dublin | Student ID: 24198170*
 
 ---
@@ -113,8 +113,3 @@ Model performance is evaluated using metrics that reflect AML operations:
 ## Author
 
 **Mohd Nizam Nasir Shaikh**
-
-MSc Financial Technology — National College of Ireland, Dublin
-
-LinkedIn: https://www.linkedin.com/in/nizam-shaikh-90b737199  
-GitHub: https://github.com/nizamshaikh12
